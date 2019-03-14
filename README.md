@@ -6,7 +6,7 @@ Notes on Build Process
   
 1. Check https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.2&tabs=visual-studio-code#prerequisites to ensure that all the requirements are met
 2. Open command prompt
-3. Run "dotnet new -i Microsoft.DotNet.Web.ProjectTemplates.1.x::1.0.0-*" to get the templates for the mvc 
+3. Run `dotnet new -i Microsoft.DotNet.Web.ProjectTemplates.1.x::1.0.0-*` to get the templates for the mvc 
 4. Run dotnet new mvc -o remindme
 5. code -r remindme
   
