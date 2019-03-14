@@ -2,7 +2,7 @@
   
 Notes on Build Process
   
-##Set-Up for Build
+## Set-Up for Build
   
 1. Check https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.2&tabs=visual-studio-code#prerequisites to ensure that all the requirements are met
 2. Open command prompt
@@ -10,9 +10,9 @@ Notes on Build Process
 4. Run dotnet new mvc -o remindme
 5. code -r remindme
   
-##In the Files
+## In the Files
   
-###Adding a Page to the MVC
+### Adding a Page to the MVC
   
 1. Go to Controllers\HomeController.cs
 2. Add a new IActionResult method like below:
